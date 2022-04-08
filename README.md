@@ -28,7 +28,7 @@ and I am a self-taught 📚 Android App Developer ( Kotlin, Jetpack Compose & Au
 - 💬 Ask me about Anything 
 - 😄 Pronouns: He/Him
 
-![](https://komarev.com/ghpvc/?username=SachinPremkuma&label=PROFILE+VIEWS&&color=green)
+![](https://komarev.com/ghpvc/?username=fomoRahnuma&label=PROFILE+VIEWS&&color=green)
 
  ------------------
  #### Expert In 
