@@ -21,7 +21,7 @@ and I am a self-taught 📚 Android App Developer ( Kotlin, Jetpack Compose & Au
 </a>
 
 
-- 🔭 I’m currently working on Inochi HealthCare
+- 🔭 I’m currently working on fomo
 - 🌱 I’m currently learning IOS, swift and CI/CD
 - 👯 I’m looking to collaborate on Android, IOS & Flutter
 - 🤔 I’m looking for help with IOS
